@@ -1,0 +1,68 @@
+@media screen and (max-width: 768px) {
+    .feature-card.style2 .box-img {
+        margin-bottom: 50px;
+        width: 60%;
+        margin-left: 22%;
+    }
+    .feature-card.style2 .box-title {
+        font-size: 18px;
+    }
+    .feature-card.style2 .box-text {
+        font-size: 13px;
+    }
+    .p,
+    p {
+        font-size: 13px !important;
+    }
+    .li,
+    li {
+        font-size: 13px !important;
+    }
+    .counter-card2 {
+        width: 160px;
+        height: 160px;
+    }
+    .counter-card2 .box-number {
+        font-size: 22px;
+    }
+    .service-card2 .box-img {
+        width: 65% !important;
+    }
+    .team-card {
+        width: 82%;
+        margin-left: 8%;
+    }
+    .th-btn.circle-btn {
+        width: 160px;
+        height: 160px;
+    }
+    .why-card-wrap2 .circle-tag {
+        position: relative;
+        bottom: 0;
+        right: auto;
+        display: none;
+    }
+    .why-img-box2 {
+        display: none;
+    }
+    .about-2-image {
+        display: none;
+    }
+    .img-box4 .circle-tag {
+        display: none;
+    }
+    .footer-layout1 .footer-top .contact-info-card.contact-location-info,
+    .contact-info-card.contact-phone-info,
+    .contact-info-card.contact-mail-info {
+        padding-left: 5%;
+    }
+    .widget-contact-wrap .info-box .info-box_icon {
+        height: 40px;
+        width: 40px;
+    }
+    .contact-info .box-icon {
+        width: 70px;
+        height: 70px;
+    }
+    
+}
